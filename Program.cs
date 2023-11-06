@@ -52,7 +52,7 @@ do
     }
     //customizaçã da jogada incial
     if (contadorJogadas == 1) {
-        Console.Write($"Jogada primeira #{contadorJogadas}\n");
+        Console.Write($"Primeira Jogada #{contadorJogadas}\n");
         
     }
     else {
